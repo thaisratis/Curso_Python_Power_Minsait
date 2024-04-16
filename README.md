@@ -1,4 +1,4 @@
-Material referente ao curso da Minsait titulado "Python Power: Exploração, Manipulação e Análise de Dados com Numpy e Pandas"
+# Material referente ao curso da Minsait titulado "Python Power: Exploração, Manipulação e Análise de Dados com Numpy e Pandas"
 
 Aulas - Contém os slides utilizados nas aulas;
 Datasets - Contém os conjuntos de dados utilizados durantes as aulas;
