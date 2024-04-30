@@ -1,0 +1,9 @@
+https://www.kaggle.com/datasets/prasad22/healthcare-dataset
+https://www.kaggle.com/datasets/lovishbansal123/sales-of-a-supermarket/data
+https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
+https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
+https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
+https://www.kaggle.com/datasets/jackdaoud/marketing-data/data
+https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
+https://www.kaggle.com/datasets/erdemtaha/cancer-data/data
+https://www.kaggle.com/datasets/uciml/adult-census-income/data
